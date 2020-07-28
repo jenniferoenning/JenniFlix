@@ -1,0 +1,177 @@
+{
+  "categorias": [
+    {
+      "titulo": "Minecraft",
+      "link": "https://www.youtube.com/watch?v=47cLe1Ne82I&list=PLl-6eUZ0apLOCspTzFYsY1dHgA89OGtua",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Vídeo de minecraft",
+        "url": "https://www.youtube.com/watch?v=47cLe1Ne82I&list=PLl-6eUZ0apLOCspTzFYsY1dHgA89OGtua"
+      },
+      "videos": [
+        {
+          "titulo": "Dei 4 headshots em 2 segundos do game!",
+          "url": "https://www.youtube.com/watch?v=cnA_G6NkYM0&t=35s"
+        },
+        {
+          "titulo": "De Volta À Batalha! - Bedwarst",
+          "url": "https://www.youtube.com/watch?v=47cLe1Ne82I&list=PLl-6eUZ0apLOCspTzFYsY1dHgA89OGtua"
+        },
+        {
+          "titulo": "A SUPER CAMA!!! - MINECRAFT Ft.Pedrodbr, Aliventura",
+          "url": "https://www.youtube.com/watch?v=PZELeTDmbQI&list=PLl-6eUZ0apLMcJaQwkMM9Vf7ix2TTq5QZ"
+        },
+        {
+          "titulo": "ESSE JOGO TÁ MUITO FÁCIL!!! - Minecraft BedWars",
+          "url": "https://www.youtube.com/watch?v=2CUcUJ7oGmQ&list=PLl-6eUZ0apLMcJaQwkMM9Vf7ix2TTq5QZ&index=2"
+        },
+        {
+          "titulo": "JOGANDO SOLO!!! - Minecraft Bedwars",
+          "url": "https://www.youtube.com/watch?v=42Z3yiASpu0&list=PLl-6eUZ0apLMcJaQwkMM9Vf7ix2TTq5QZ&index=3"
+        }      
+      ]
+    },
+    {
+      "titulo": "Counter Strike",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Vídeos de Counter Strike",
+        "url": "https://www.youtube.com/watch?v=qAuPhfkyVrw&list=PLl-6eUZ0apLPJ8D8b0LQN0QgIpGByCEUc&index=46"
+      },
+      "videos": [
+        {
+          "titulo": "Estamos quase Supremos! - COMPETITIVO CS:GO",
+          "url": "https://www.youtube.com/watch?v=qAuPhfkyVrw&list=PLl-6eUZ0apLPJ8D8b0LQN0QgIpGByCEUc&index=46"
+        },
+        {
+          "titulo": "A saga do águia 2... - CSGO COMPETITIVO",
+          "url": "https://www.youtube.com/watch?v=B3WKvxI-Q2E&list=PLl-6eUZ0apLPJ8D8b0LQN0QgIpGByCEUc&index=44"
+        },
+        {
+          "titulo": "Dei 4 headshots em 2 segundos do game!",
+          "url": "https://www.youtube.com/watch?v=cnA_G6NkYM0&list=PLl-6eUZ0apLPJ8D8b0LQN0QgIpGByCEUc&index=43"
+        },
+        {
+          "titulo": "Hoje é dia de competitivo & aniversário!",
+          "url": "https://www.youtube.com/watch?v=5RPpueD3YSI&list=PLl-6eUZ0apLPJ8D8b0LQN0QgIpGByCEUc&index=42"
+        }, 
+        {
+          "titulo": "Ninja defuse em dia! - CS:GO COMPETITIVO",
+          "url": "https://www.youtube.com/watch?v=03PeDAlldCA&list=PLl-6eUZ0apLPJ8D8b0LQN0QgIpGByCEUc&index=41"
+        },
+        {
+          "titulo": "Rumo ao Águia!",
+          "url": "https://www.youtube.com/watch?v=CDmiwRQZ1Hk&list=PLl-6eUZ0apLPJ8D8b0LQN0QgIpGByCEUc&index=40"
+        },
+        {
+          "titulo": "A Louca Do Cs - Cs:Go Competitivo",
+          "url": "https://www.youtube.com/watch?v=3M1uStgQqaI&list=PLl-6eUZ0apLPJ8D8b0LQN0QgIpGByCEUc&index=38"
+        }
+      ]
+    },
+    {
+      "titulo": "Unboxing",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Meus unboxings",
+        "url": "https://www.youtube.com/watch?v=7C8SifibVaA&list=PLl-6eUZ0apLPQ1vg_1AIeA_W4G6hRXEd9&index=3"
+      },
+      "videos": [
+        {
+          "titulo": "Unboxing Da Caixa Dropei!!!",
+          "url": "https://www.youtube.com/watch?v=1Lu0yXF9mm4&list=PLl-6eUZ0apLPQ1vg_1AIeA_W4G6hRXEd9&index=2"
+        },
+        {
+          "titulo": "Meu Primeiro Teclado MecÂNico!!! - Unboxing",
+          "url": "https://www.youtube.com/watch?v=wtHlUvDv_AA&list=PLl-6eUZ0apLPQ1vg_1AIeA_W4G6hRXEd9&index=1"
+        },
+        {
+          "titulo": "MEU PRIMEIRO NOTEBOOK PARA PROGRAMAÇÃO! - Dell G3  ",
+          "url": "https://www.youtube.com/watch?v=7C8SifibVaA&list=PLl-6eUZ0apLPQ1vg_1AIeA_W4G6hRXEd9&index=3"
+        },
+        {
+          "titulo": "Unboxing Headset Hyperx Cloud Ii Pink + Teste!!!",
+          "url": "https://www.youtube.com/watch?v=2q3DSKzXy4s&list=PLl-6eUZ0apLOmZlsZLhwEJt8GUdxzpS-T&index=6"
+        },
+        {
+          "titulo": "Minha Nova Cadeira Gamer!!!",
+          "url": "https://www.youtube.com/watch?v=RAlL9AErCT4&list=PLl-6eUZ0apLOmZlsZLhwEJt8GUdxzpS-T&index=11"
+        }
+      ]
+    },
+    {
+      "titulo": "The Sims 4",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Fiz Uma Duende Ou Uma JurÉGa!?? - The Sims 4 #1",
+          "url": "https://www.youtube.com/watch?v=KgYscE3c8gE&list=PLl-6eUZ0apLPMSYzns5Y1GsOWl5jbw5L9"
+        },
+        {
+          "titulo": "Vamos Dar Um RolÊ Com A Craudinha!!! - The Sims 4 #2",
+          "url": "https://www.youtube.com/watch?v=0-vi1XNm0fw&list=PLl-6eUZ0apLPMSYzns5Y1GsOWl5jbw5L9&index=2"
+        },
+        {
+          "titulo": "Craudinha Desencalhou!!! 😱 - The Sims 4 #3",
+          "url": "https://www.youtube.com/watch?v=ng8-38RzOdw&list=PLl-6eUZ0apLPMSYzns5Y1GsOWl5jbw5L9&index=3"
+        },
+        {
+          "titulo": "Compramos Um Restaurante!??? - The Sims 4 #4",
+          "url": "https://www.youtube.com/watch?v=NlyyUAQTP1U&list=PLl-6eUZ0apLPMSYzns5Y1GsOWl5jbw5L9&index=4"
+        }
+      ]
+    },
+    {
+      "titulo": "Vlogs",
+      "cor": "red",
+      "link_extra": {
+        "text": "Vídeos divertidos para descontrair",
+        "url": "https://www.youtube.com/watch?v=QQrDSLnryNc&list=PLl-6eUZ0apLOmZlsZLhwEJt8GUdxzpS-T&index=3"
+      },
+      "videos": [
+        {
+          "titulo": "ENFEITANDO ÁRVORE DE NATAL - Jennifer Oenning",
+          "url": "https://www.youtube.com/watch?v=QQrDSLnryNc&list=PLl-6eUZ0apLOmZlsZLhwEJt8GUdxzpS-T&index=3"
+        },
+        {
+          "titulo": "Meu Monitor Lg Ultrawide Chegoou!",
+          "url": "https://www.youtube.com/watch?v=vd4I156PFL0&list=PLl-6eUZ0apLOmZlsZLhwEJt8GUdxzpS-T&index=4"
+        },
+        {
+          "titulo": "Perguntas E Respostas ♥",
+          "url": "https://www.youtube.com/watch?v=i0lDX2iCuhc&list=PLl-6eUZ0apLOmZlsZLhwEJt8GUdxzpS-T&index=5"
+        },
+        {
+          "titulo": "Tag: MÃE E Filha",
+          "url": "https://www.youtube.com/watch?v=gMYnImiAaoI&list=PLl-6eUZ0apLOmZlsZLhwEJt8GUdxzpS-T&index=8"
+        },
+        {
+          "titulo": "Tente NÃO Rir!!!",
+          "url": "https://www.youtube.com/watch?v=ZbqbGLJoer4&list=PLl-6eUZ0apLOmZlsZLhwEJt8GUdxzpS-T&index=10"
+        }
+      ]
+    },
+    {
+      "titulo": "BatteGrounds",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Vídeos de Battle Grounds",
+        "url": "https://www.youtube.com/watch?v=QG3XFZru4p8&list=PLl-6eUZ0apLNc5_MXnpeSwHZoNrVO1ZiI"
+      },
+      "videos": [
+        {
+          "titulo": "Quase Ganhei A Partida 😱 - Battlegrounds",
+          "url": "https://www.youtube.com/watch?v=QG3XFZru4p8&list=PLl-6eUZ0apLNc5_MXnpeSwHZoNrVO1ZiI"
+        },
+        {
+          "titulo": "Time Bom Ganha FÁCil!!! - Pubg 🔥",
+          "url": "https://www.youtube.com/watch?v=pFNz23zHz0Q&list=PLl-6eUZ0apLNc5_MXnpeSwHZoNrVO1ZiI&index=2"
+        },
+        {
+          "titulo": "Momentos EngraÇAdos No Battlegrounds!!!",
+          "url": "https://www.youtube.com/watch?v=7-gLUoRPGJg&list=PLl-6eUZ0apLNc5_MXnpeSwHZoNrVO1ZiI&index=3"
+        }
+      ]
+    }
+  ]
+}
